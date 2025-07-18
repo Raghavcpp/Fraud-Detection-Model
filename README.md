@@ -83,4 +83,4 @@ To run this project locally or on Google Colab:
 # Clone this repository
 git clone https://github.com/Raghavcpp/Fraud-Detection-Model.git
 
-# Open the notebook in Google Colab or Jupyter
+# Open the notebook in Google Colab or Jupyter 
