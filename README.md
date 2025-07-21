@@ -1,6 +1,7 @@
 # 🛡️ Fraud Detection Model
 
 A robust, end-to-end machine learning pipeline to detect fraudulent financial transactions using historical data from cardholders, merchants, and transaction activity.
+
 ---
 
 ## 📊 Dataset Sources
